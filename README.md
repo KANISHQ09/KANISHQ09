@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8b/a2/c4/8ba2c4aa8d5bac8528679f0bcfc6c3d1.gif" height="150" alt="stats graph"  />
+  <img src="" height="300" alt="solo"  />
 </div>
 
 ###
