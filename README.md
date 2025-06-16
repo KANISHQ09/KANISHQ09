@@ -9,7 +9,10 @@
 
 ###
 
-### 🚀 My Skills
+<div align="center">
+  
+  🚀 My Skills
+  ###
 
 | Skill | Proficiency |
 |-------|-------------|
@@ -22,7 +25,7 @@
 | 🧠 UI/UX | ███████▎ 78% |
 | 📱 Responsive Design | █████████▊ 90% |
 
-
+</div>
 ###
 
 <div align="left">
