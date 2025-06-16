@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="solo.gif" height="300" alt="solo"  />
+  <img src="solo.gif" height="450" alt="solo"  />
 </div>
 
 ###
