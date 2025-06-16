@@ -1,4 +1,10 @@
-<h2 align="left">Hi👋! My name is Kanishq Singh Negi and I'm a Full Stack Developer from India</h2>
+<div align="center">
+  <a href="https://powertsone666.io">
+    <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="MasterHead" />
+  </a>
+</div>
+
+<h2 align="center">Hi👋! I'm a Full Stack Developer from India</h2>
 
 ###
 
@@ -26,9 +32,8 @@
 | 📱 Responsive Design | █████████▊ 90% |
 
 </div>
-###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
@@ -46,7 +51,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@yourchannel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
@@ -69,8 +74,8 @@
 
 ###
 
-<br clear="both">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ###
