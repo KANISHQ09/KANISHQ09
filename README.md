@@ -4,15 +4,12 @@
   </a>
 </div>
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Typescript<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: I'm a teen😌</p>
 
 ###
 
